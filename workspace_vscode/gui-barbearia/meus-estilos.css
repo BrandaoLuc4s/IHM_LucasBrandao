@@ -6,3 +6,7 @@ p{
 body{
     background: silver;
 }
+
+strong em{
+    color: red
+}
