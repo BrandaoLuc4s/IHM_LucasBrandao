@@ -1,6 +1,9 @@
 p{
     text-align: center;
-    background: silver;
+}
+
+h1{
+    text-align: center;
 }
 
 body{
@@ -9,4 +12,12 @@ body{
 
 strong em{
     color: red
+}
+
+#missao{
+    font-size: 20px;
+}
+
+#banner{
+    width: 100%;
 }
