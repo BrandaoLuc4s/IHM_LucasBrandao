@@ -1,23 +1,35 @@
-p{
+.apresentacao__principal {
+    background-color: silver;
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
     text-align: center;
 }
 
-h1{
+p {
     text-align: center;
 }
 
-body{
-    background: silver;
-}
-
-strong em{
+strong em {
     color: red
 }
 
-#missao{
+#missao {
     font-size: 20px;
 }
 
-#banner{
-    width: 100%;
+.apresentacao__beneficios {
+    background-color: white;
+}
+
+.item {
+    font-style: italic;
+}
+
+#banner2 {
+    width: 50%;
 }
